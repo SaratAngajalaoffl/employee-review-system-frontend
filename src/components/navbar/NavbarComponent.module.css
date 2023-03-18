@@ -1,0 +1,26 @@
+.container {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    height: 7vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+}
+
+.nav_items {
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+}
+
+.nav_item {
+    list-style: none;
+
+    margin-right: 20px;
+}
