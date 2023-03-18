@@ -4,6 +4,7 @@ This application provides an interface for managing employee performance reviews
 
 ## Folder Structure
 
+```
 src
 ├── components
 │   ├── cards
@@ -21,6 +22,7 @@ src
 │   └── signup
 ├── services
 └── utils
+```
 
 ## Installation and Setup Instructions
 
